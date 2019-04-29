@@ -23,7 +23,7 @@ namespace Algorithms
             ///
             tasks.Add(0, "Rebus");
             tasks.Add(1, "SameSumSubSequence");
-
+            tasks.Add(2, "MathematicsPow");
 
 
 

@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MathematicsPow\MathematicsPow.csproj" />
     <ProjectReference Include="..\Rebus\Rebus.csproj" />
     <ProjectReference Include="..\SameSumSubSequence\SameSumSubSequence.csproj" />
   </ItemGroup>
